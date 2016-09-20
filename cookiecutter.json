@@ -1,0 +1,9 @@
+{
+    "author_name": "Anders Innovations",
+    "author_email": "info@anders.fi",
+
+    "package_name": "",
+    "package_version": "0.1.0",
+    "package_description": "",
+    "package_url": "https://github.com/andersinno/{{ cookiecutter.package_name }}",
+}
